@@ -1,5 +1,5 @@
 {                                                                                                                                                                                            
     "schema_version": 1,                                                                                                                                                                       
-    "emergency_bypass": false,                                                        
+    "emergency_bypass": true,                                                        
     "updated_at": "2026-05-06T00:00:00Z"                                                                                                                                                       
   }
